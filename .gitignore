@@ -1,0 +1,7 @@
+.ssh/
+.cache/
+.vscode-server/
+.dotnet/
+.local/
+.rancher*/
+*.log
