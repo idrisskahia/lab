@@ -28,5 +28,7 @@ Text: The movie was okay, not great but not terrible.
 
 ##	Requirements
 Python 3.9 or later
+
 transformers
+
 torch
