@@ -23,3 +23,10 @@ Text: This deployment process is frustrating.
 
 Text: The movie was okay, not great but not terrible.
 → Label: NEUTRAL, Confidence: 0.7652
+```
+---
+
+##	Requirements
+Python 3.9 or later
+transformers
+torch
